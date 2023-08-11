@@ -6,3 +6,5 @@ The goal is to create a model that has one purpose, to beautify the input, Here'
 
 - input: Don't worry, be happy!
 - response: Let go of your worries and embrace happiness!
+
+[Open in Colab](https://colab.research.google.com/drive/1nIZJSTpmvQb2EhRzrtdQ43JpfsvXnpAX?usp=sharing)
